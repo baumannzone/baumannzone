@@ -1,14 +1,18 @@
-### Hi there 👋, I'm Jorge Baumann
+### Hi there 👋
 
 ![Jorge Baumann - @baumannzone ](./header.png)
 
-I'm Jorge Baumann (_@**baumannzone**_), a **software developer** and content creator, passionate about Open Source and creating awesome things for awesome people.
+I'm Jorge Baumann (_@**baumannzone**_), a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
 I enjoy building a community and sharing tech related content.  
 
 I love front-end technologies as #HTML, #CSS & #Javascript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
 In the last months I've been a Vue.js teacher for various companies, including [Platzi](https://platzi.com/cursos/avanzado-vue/)
 
 I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup, a fully-inclusive tech community in Madrid.
+
+## ⚡ Fun fact:
+- I can move my ears 👂
+- My dog is called [Rambo](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA) 🐶
 
 ## Find me around the web 🌍:
 <p align="center">
