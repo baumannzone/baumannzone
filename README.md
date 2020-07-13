@@ -1,15 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Jorge Baumann
 
 ![Jorge Baumann - @baumannzone ](./header.png)
 
-I'm Jorge Baumann (_@baumannzone_), a **software developer** and content creator, passionate about Open Source and creating awesome things for awesome people.
-I also enjoy building a community and live coding.  
+I'm Jorge Baumann (_@**baumannzone**_), a **software developer** and content creator, passionate about Open Source and creating awesome things for awesome people.
+I enjoy building a community and sharing tech related content.  
 
 I love front-end technologies as #HTML, #CSS & #Javascript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
 In the last months I've been a Vue.js teacher for various companies, including [Platzi](https://platzi.com/cursos/avanzado-vue/)
 
 I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup, a fully-inclusive tech community in Madrid.
 
+## Find me around the web 🌍:
 <p align="center">
     <a href="https://github.com/baumannzone">
         <img src="https://img.shields.io/github/followers/baumannzone.svg?label=GitHub&style=social" alt="GitHub Baumannzone">
@@ -33,18 +34,3 @@ I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup,
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
-
-<!--
-**baumannzone/baumannzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
