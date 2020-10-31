@@ -6,7 +6,7 @@ I'm Jorge Baumann (_@baumannzone_), a **software developer** and content creator
 I enjoy building a community and sharing tech related content.  
 
 I love front-end technologies as #HTML, #CSS & #Javascript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
-In the last months I've been a Vue.js teacher for various companies, including [Platzi](https://platzi.com/cursos/avanzado-vue/)
+In the last months I've been a Vue.js teacher for various companies. At the moment I'm learning React.
 
 I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup, a fully-inclusive tech community in Madrid.
 
