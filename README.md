@@ -5,7 +5,7 @@
 I'm Jorge Baumann (_@baumannzone_), a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
 I enjoy building a community and sharing tech related content.  
 
-I love front-end technologies as #HTML, #CSS & #Javascript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
+I love front-end technologies as #HTML, #CSS & #JavaScript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
 In the last months I've been a Vue.js teacher for various companies. At the moment working with React (Next).
 
 I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup, a fully-inclusive tech community in Madrid. Once a month, with some buddys, I host an online meetup via [twitch](https://www.twitch.tv/osweekends).
@@ -34,7 +34,7 @@ I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup,
     <a href="https://github.com/sponsors/baumannzone">
         <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors Baumannzone">
     </a>
-    <a href="https://www.linkedin.com/in/baumannzone">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    <a href="https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA">
+        <img src="https://img.shields.io/badge/Youtube--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
 </p>
