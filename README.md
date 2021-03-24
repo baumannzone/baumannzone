@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jorge Baumann - @baumannzone ](https://raw.githubusercontent.com/baumannzone/baumannzone/master/new-header.png)
+![Jorge Baumann - @baumannzone ](https://raw.githubusercontent.com/baumannzone/baumannzone/master/gh.png)
 
 I'm Jorge Baumann (_@baumannzone_), a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
 I enjoy building a community and sharing tech related content.  
