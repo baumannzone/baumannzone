@@ -12,7 +12,7 @@ Few days a week I do live coding on my [twitch channel](https://twitch.tv/bauman
 
 ## ⚡ Fun fact:
 - I can move my ears 👂
-- My dog is called [Rambo](https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA) 🐶
+- My dog is called [Rambo](https://www.youtube.com/RambitoJS) 🐶
 
 ## Find me around the web 🌍:
 <p align="center">
