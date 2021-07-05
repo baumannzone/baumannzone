@@ -16,25 +16,19 @@ Few days a week I do live coding on my [twitch channel](https://twitch.tv/bauman
 
 ## Find me around the web 🌍:
 <p align="center">
-    <a href="https://github.com/baumannzone">
-        <img src="https://img.shields.io/github/followers/baumannzone.svg?label=GitHub&style=social" alt="GitHub Baumannzone">
+    <a href="https://instagram.com/baumannzone">
+        <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram Baumannzone">
     </a>
     <a href="https://twitter.com/baumannzone">
-        <img src="https://img.shields.io/twitter/follow/baumannzone?label=Twitter&style=social" alt="Twitter Baumannzone">
+        <img src="https://img.shields.io/twitter/follow/Baumannzone?label=Twitter&style=social" alt="Twitter Baumannzone">
     </a>
     <a href="https://twitch.tv/baumannzone">
-        <img src="https://img.shields.io/badge/Twitch--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Baumannzone">
-    </a>
-    <a href="https://instagram.com/baumannzone">
-        <img src="https://img.shields.io/badge/Instagram--_.svg?label=Instagram&style=social&logo=instagram" alt="Instagram Baumannzone">
-    </a>
-    <a href="https://dev.to/baumannzone">
-        <img src="https://img.shields.io/badge/DEV--_.svg?style=social&logo=dev.to" alt="Dev.to Baumannzone">
+        <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Baumannzone">
     </a>
     <a href="https://github.com/sponsors/baumannzone">
         <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors Baumannzone">
     </a>
-    <a href="https://www.youtube.com/channel/UCTTj5ztXnGeDRPFVsBp7VMA">
-        <img src="https://img.shields.io/badge/Youtube--_.svg?style=social&logo=youtube" alt="YouTube">
+    <a href="https://www.youtube.com/RambitoJS">
+        <img src="https://img.shields.io/badge/RambitoJS--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
 </p>
