@@ -2,7 +2,7 @@
 
 ![Jorge Baumann - @baumannzone ](https://raw.githubusercontent.com/baumannzone/baumannzone/master/gh.png)
 
-I'm Jorge Baumann (_@baumannzone_), a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
+I'm Jorge Baumann, a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
 I enjoy building a community and sharing tech related content.  
 
 I love front-end technologies as #HTML, #CSS & #JavaScript and I've been working mostly on Vue.js and JAMstack (javascript, API's, Markup) projects lately.  
