@@ -8,7 +8,7 @@ I enjoy building a community and sharing tech related content.
 I love front-end technologies as #HTML, #CSS & #JavaScript and I've been working mostly on Vue.js and JAMstack projects lately.  
 In the last months I've been a Vue.js teacher for various companies. At the moment working with React and Next.
 
-Few days a week I do live coding on my [twitch channel](https://twitch.tv/baumannzone). I'm organizer of [Open Source Weekends](https://twitter.com/os_weekends) Meetup, a fully-inclusive tech community in Madrid.
+Few days a week I do live coding on my [twitch channel](https://twitch.tv/baumannzone).
 
 ## ⚡ Fun fact:
 - I can move my ears 👂
