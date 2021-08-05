@@ -3,10 +3,12 @@
 ![Jorge Baumann - @baumannzone ](https://raw.githubusercontent.com/baumannzone/baumannzone/master/gh.png)
 
 I'm Jorge Baumann, a **software developer** and content creator, passionate about open source and creating awesome things for awesome people.
-I enjoy building a community and sharing tech related content.  
+I enjoy building a community and sharing tech related content. 
 
-I love front-end technologies as #HTML, #CSS & #JavaScript and I've been working mostly on Vue.js and JAMstack projects lately.  
-In the last months I've been a Vue.js teacher for various companies. At the moment working with React and Next.
+I have a blog where I share my knowledge and my thoughts: https://baumannzone.dev
+
+I love front-end technologies as HTML, CSS & JavaScript. I've been working mostly on Vue.js and JAMstack projects lately.  
+At the moment playing with React and the Next.js ecosystem.
 
 Few days a week I do live coding on my [twitch channel](https://twitch.tv/baumannzone).
 
