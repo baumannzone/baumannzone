@@ -7,9 +7,6 @@ I enjoy building a community and sharing tech related content.
 
 ### https://baumannzone.dev
 
-## ⚡ Fun fact:
-- I can move my ears 👂
-- My dog is called [Rambo](https://www.youtube.com/RambitoJS) 🐶
 
 ## Find me around the web 🌍:
 <p align="center">
@@ -21,11 +18,5 @@ I enjoy building a community and sharing tech related content.
     </a>
     <a href="https://twitch.tv/baumannzone">
         <img src="https://img.shields.io/badge/Baumannzone--_.svg?label=Twitch&style=social&logo=twitch" alt="Twitch Baumannzone">
-    </a>
-    <a href="https://github.com/sponsors/baumannzone">
-        <img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors Baumannzone">
-    </a>
-    <a href="https://www.youtube.com/RambitoJS">
-        <img src="https://img.shields.io/badge/RambitoJS--_.svg?style=social&logo=youtube" alt="YouTube">
     </a>
 </p>
