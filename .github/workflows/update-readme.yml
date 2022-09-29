@@ -1,0 +1,31 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 */4 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '16'
+      - run: npm install
+      - run: npm run start
+        env:
+          INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: |
+          git config user.name baumannzone
+          git config user.email jorge.baumann.aguilar@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[Bot] Update README.md"
+          git push origin master
