@@ -21,8 +21,9 @@ jobs:
       - run: npm install
       - run: npm run start
         env:
-          INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          INSTAGRAM_RAPIDAPI_KEY: ${{ secrets.INSTAGRAM_RAPIDAPI_KEY }}
+          INSTAGRAM_RAPIDAPI_HOST: ${{ secrets.INSTAGRAM_RAPIDAPI_HOST }}
       - run: |
           git config user.name baumannzone
           git config user.email jorge.baumann.aguilar@gmail.com
