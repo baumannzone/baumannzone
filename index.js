@@ -3,26 +3,33 @@ import * as dotenv from 'dotenv';
 import fetch from 'node-fetch';
 dotenv.config();
 
-const { INSTAGRAM_API_KEY, YOUTUBE_API_KEY } = process.env;
+const { INSTAGRAM_RAPIDAPI_KEY, INSTAGRAM_RAPIDAPI_HOST, YOUTUBE_API_KEY } =
+  process.env;
 
 const INSTAGRAM_USER_ID = '232005590';
 const YOUTUBE_PLAYLIST_ID = 'PLaP1DHaNgbKaChma5n73RlVeQhp0Y4zwo';
+
 const NUMBER_OF = { PHOTOS: 4, VIDEOS: 3 };
 const PLACEHOLDERS = { YOUTUBE: '%{{youtube}}%', INSTAGRAM: '%{{instagram}}%' };
 
-const getPhotosFromInstagram = async () => {
+const getPhotosFromInstagram = async (numberOfPhotos) => {
   const response = await fetch(
-    `https://instagram188.p.rapidapi.com/userpost/${INSTAGRAM_USER_ID}/${NUMBER_OF.PHOTOS}/%7Bend_cursor%7D`,
+    `https://instagram-scraper-2022.p.rapidapi.com/ig/posts/?id_user=${INSTAGRAM_USER_ID}`,
     {
       headers: {
-        'X-RapidAPI-Key': INSTAGRAM_API_KEY,
-        'X-RapidAPI-Host': 'instagram188.p.rapidapi.com',
+        'X-RapidAPI-Key': INSTAGRAM_RAPIDAPI_KEY,
+        'X-RapidAPI-Host': INSTAGRAM_RAPIDAPI_HOST,
       },
     }
   );
 
   const json = await response.json();
-  return json?.data?.edges;
+  return (
+    json?.data?.user?.edge_owner_to_timeline_media?.edges?.slice(
+      0,
+      numberOfPhotos
+    ) || []
+  );
 };
 
 const getLatestYoutubeVideos = () => {
@@ -48,7 +55,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
   const [template, videos, photos] = await Promise.all([
     fs.readFile('template.md', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
-    getPhotosFromInstagram(),
+    getPhotosFromInstagram(NUMBER_OF.PHOTOS),
   ]);
 
   // Get the latest videos from YouTube
