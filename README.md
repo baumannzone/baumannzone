@@ -14,7 +14,8 @@ Apasionado del <strong>Open Source</strong> y de hacer proyectos increíbles con
 [![Twitch Baumannzone](https://img.shields.io/twitch/status/baumannzone?style=social)](https://twitch.tv/baumannzone)
 [![Baumannzone YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTTj5ztXnGeDRPFVsBp7VMA?style=social)](https://youtube.com/rambitojs)
 [![Instagram Baumannzone](https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram)](https://instagram.com/baumannzone)
-[![Twitter Baumannzone](https://img.shields.io/twitter/follow/Baumannzone?label=Twitter&style=social)](https://twitter.com/baumannzone)
+[![Instagram Baumannzone](https://img.shields.io/badge/Baumannzone--_.svg?label=Threads&style=social&logo=threads)](https://threads.net/@baumannzone)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/baumannzone)](https://twitter.com/baumannzone)
 
 ## ¿Quieres saber más de mí?
 
