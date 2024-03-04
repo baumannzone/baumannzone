@@ -36,15 +36,3 @@ Entra en **https://www.baumannzone.dev** 🌐 y descubre más sobre mí y mis pr
 ## 📸 Últimas fotos de [mi Instagram](https://instagram.com/baumannzone)
 
 
-<a href='https://instagram.com/p/C35kiFWtXa5' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/430045294_709357104703354_2525388992765565384_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=FvT3VbTDSCIAX9H4KWu&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAFRj1X5kn0fP4dhRcCb-whhcq5xy3cjZ_j9hyPHzgX2A&oe=65E5D0D9&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C31BnokNw77' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/430034065_796286262539929_5339521650548930021_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=0coRK1dNUzEAX8zprIp&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzMxMTU2MDIyMjY2NDIzMjY5OQ%3D%3D.2-ccb7-5&oh=00_AfDJEfsG3A7FWv6Xgv8x-WRyJIOX6C5GYhafg0z9ORMC8Q&oe=65E97454&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C3qO3JpPmyX' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/392904584_2666745280143930_8212500725714346754_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=LCOfe_d_EyQAX-zXWoA&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA9C-bUq5e8ChUUiO0lQ4z7YOAAfcp13fSUMaKDjYAdhw&oe=65E5ED39&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C3IDNQVN-Zi' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/425971311_735969735266549_7648758950222525133_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=AmjDwXvG6vYAX_E1arK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC4mmdcAdDMf-PIYA4T-hIrchWTXUZuN25AC8Dx1CbwpQ&oe=65E633F0&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
