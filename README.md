@@ -38,15 +38,3 @@ Entra en **https://www.baumannzone.dev** 🌐 y descubre más sobre mí y mis pr
 ## 📸 Últimas fotos de [mi Instagram](https://instagram.com/baumannzone)
 
 
-<a href='https://instagram.com/p/DAQXnuoodQk' target='_blank'>
-  <img width='20%' src='https://instagram.frix9-1.fna.fbcdn.net/v/t51.29350-15/461062629_426626950000533_9002489415070421136_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.frix9-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=xpwx5S7HGSEQ7kNvgHciHly&_nc_gid=2ccd72b8e9a54709a8b78988b33b885f&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQ2MzM3MTk5ODY1MTA3NzY2OA%3D%3D.3-ccb7-5&oh=00_AYCdteVgah0FstPWm0UivhEMWuSiTNRnANS4gLZizEkY0g&oe=6705A0C5&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C_zkCnMNVJ8' target='_blank'>
-  <img width='20%' src='https://instagram.frix9-1.fna.fbcdn.net/v/t51.29350-15/459285584_1457234704829851_6995853833957953455_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.frix9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=3UwUCBdFEtMQ7kNvgFnQYz-&_nc_gid=2ccd72b8e9a54709a8b78988b33b885f&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQ1NTI2Mzg0ODMxNzQwNzg2OA%3D%3D.3-ccb7-5&oh=00_AYAWAXundO6a8-M_030UvBmAwrubErtUHPwImhSCz2yAYA&oe=6705A561&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C_lEVIutGon' target='_blank'>
-  <img width='20%' src='https://instagram.frix9-1.fna.fbcdn.net/v/t51.29350-15/458727877_523436946869277_3673050343901258561_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.frix9-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OpbV2Iy0YjgQ7kNvgE21yJx&_nc_gid=2ccd72b8e9a54709a8b78988b33b885f&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQ1MTE4MzczNDExNzkxOTI3MQ%3D%3D.3-ccb7-5&oh=00_AYCUX6A7dk8mR0ZzTJstIOaEdHW6kbwwEP40cLnwtF44qQ&oe=6705B9CA&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/C_d-g2cA-qH' target='_blank'>
-  <img width='20%' src='https://instagram.frix9-1.fna.fbcdn.net/v/t51.29350-15/458398399_406202769172685_4268618283254889208_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.frix9-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Y0KEbwjuUl8Q7kNvgGmfAJ-&_nc_gid=2ccd72b8e9a54709a8b78988b33b885f&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQ0OTE4NzgyNTk5NDY4OTE1OQ%3D%3D.3-ccb7-5&oh=00_AYCd177dtrqYqQwLVo_AQkDrf9fvcYwt9baC7AyJuRF3Lw&oe=6705A363&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
