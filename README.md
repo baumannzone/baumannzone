@@ -38,15 +38,3 @@ Entra en **https://www.baumannzone.dev** 🌐 y descubre más sobre mí y mis pr
 ## 📸 Últimas fotos de [mi Instagram](https://instagram.com/baumannzone)
 
 
-<a href='https://instagram.com/p/DC1mM2qv27-' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/468424479_18468104605005591_4234816014177956777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Y_ck6xtwpXoQ7kNvgHkZpzX&_nc_gid=8b12e3604b28492ea1933598ba6222ba&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAFsRtn0sCHF3fUywLzGEFpurzIuhSOJikMvciyAlks5A&oe=674CF2E2&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DCxN0orgb5J' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/468104942_18467810623005591_8847073789115456521_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=4y1fszQHx2IQ7kNvgEZC0DC&_nc_gid=8b12e3604b28492ea1933598ba6222ba&edm=APU89FABAAAA&ccb=7-5&oh=00_AYC9lzzffrCpBVd8IcFOZAL7oBIyKnYbww_8B3SHFJKObQ&oe=674CD464&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DChqldJvZ5J' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/467582956_18466716382005591_3405073393130446071_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Ty2dSmMeVJ8Q7kNvgEhVL5r&_nc_gid=8b12e3604b28492ea1933598ba6222ba&edm=APU89FABAAAA&ccb=7-5&oh=00_AYD-tTPht8aGMJevVEe7UInD6dk208awbSy5pAi79OTyPA&oe=674CCC35&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DCP9yAjv6Kg' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/466365079_3938181906393152_2679361386227094703_n.jpg?stp=dst-jpg_e15_fr_p1080x1080&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=-nCmeKiwxysQ7kNvgG2N5tZ&_nc_gid=8b12e3604b28492ea1933598ba6222ba&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAOucjzDDZZmBo5E2eed8GLJR8zL9ECltUxApRZ-5tDLg&oe=674CE7A6&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
