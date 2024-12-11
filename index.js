@@ -84,9 +84,10 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 </a>`;
 
 const generatePostHTML = ({ title, link }) => {
-  return `<a href='${link}' target='_blank'>
-  <h4>${title}</h4>
-</a>`;
+  //   return `<a href='${link}' target='_blank'>
+  //   <h4>${title}</h4>
+  // </a>`;
+  return `- [${title}](${link})`;
 };
 
 (async () => {
