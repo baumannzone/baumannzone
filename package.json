@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/baumannzone/baumannzone/issues"
   },
-  "homepage": "https://github.com/baumannzone/baumannzone#readme"
+  "homepage": "https://github.com/baumannzone/baumannzone#readme",
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
 }
