@@ -18,9 +18,9 @@ Apasionado del <strong>Open Source</strong> y de hacer proyectos increíbles con
 [![Twitter Baumannzone](https://img.shields.io/badge/LinkedIn-ffffff?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/baumannzone/)
 
 
-## ¿Quieres saber más de mí?
+## ¿Quieres ver mi setup de programador?
 
-Entra en **https://www.baumannzone.dev** 🌐 y descubre más sobre mí y mis proyectos.
+Entra en **https://www.baumannzone.dev/uses** 🌐 y descubre más sobre mis herramientas de trabajo.
 
 ## 📹 Últimos vídeos de [mi canal de Youtube](https://youtube.com/rambitojs?sub_confirmation=1)
 
@@ -29,3 +29,15 @@ Entra en **https://www.baumannzone.dev** 🌐 y descubre más sobre mí y mis pr
 ## 📸 Últimas fotos de [mi Instagram](https://instagram.com/baumannzone)
 
 %{{instagram}}%
+
+## Mis mascotas 🦥 
+
+<img
+  src="https://render.gitanimals.org/lines/baumannzone"
+  width="600"
+  height="120"
+/>
+
+## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
+
+%{{blog}}%
