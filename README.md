@@ -21,15 +21,38 @@ Apasionado del <strong>Open Source</strong> y de hacer proyectos increíbles con
 
 Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubre todo sobre mis herramientas de trabajo, el software que utilizo y más.
 
-## 🍒 Últimas publicaciones de [Instagram](https://instagram.com/baumannzone)
+Entra en **https://www.baumannzone.dev/uses** 🌐 y descubre más sobre mis herramientas de trabajo.
 
-%{{instagram}}%
+## 📹 Últimos vídeos de [mi canal de Youtube](https://youtube.com/rambitojs?sub_confirmation=1)
 
-## 🫶 Últimos vídeos de [mi canal de Youtube](https://youtube.com/rambitojs?sub_confirmation=1)
 
-%{{youtube}}%
+<a href='https://youtu.be/W6xwoSJahA0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/W6xwoSJahA0/mqdefault.jpg' alt='📦 CSS Companion Cube · Dibujando con CSS' />
+</a>
+<a href='https://youtu.be/9C3NXVXewH8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9C3NXVXewH8/mqdefault.jpg' alt='👾 CSS Arcade + Pacman · Dibujando con CSS [PARTE #2]' />
+</a>
+<a href='https://youtu.be/2ahqLdgkSxA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2ahqLdgkSxA/mqdefault.jpg' alt='👾 CSS Arcade + Pacman · Dibujando con CSS [PARTE #1]' />
+</a>
 
-## 🦥 Mis mascotas
+## 📸 Últimas fotos de [mi Instagram](https://instagram.com/baumannzone)
+
+
+<a href='https://instagram.com/p/DDCednuAYvl' target='_blank'>
+  <img width='20%' src='https://instagram.fotp3-2.fna.fbcdn.net/v/t51.29350-15/468898075_1120998739636638_1862276146382503666_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.fotp3-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=fJ-sYtd7BpMQ7kNvgGvGpA6&_nc_gid=07ce24c43c894502a1af80833f428996&edm=APU89FABAAAA&ccb=7-5&oh=00_AYB4Jx_xhYuJbZgX4l9O-zUCdVaMtf7azvYfi8A6Vdx-6g&oe=675FABEF&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+<a href='https://instagram.com/p/DC1mM2qv27-' target='_blank'>
+  <img width='20%' src='https://instagram.fotp3-3.fna.fbcdn.net/v/t51.2885-15/468424479_18468104605005591_4234816014177956777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fotp3-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=3_pjhtPTbEwQ7kNvgG6Xq2_&_nc_gid=07ce24c43c894502a1af80833f428996&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBorSFPJ7oaxv8w8wCIfBnYIphsyw8xxcRCoAO5YDrNxQ&oe=675FA022&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+<a href='https://instagram.com/p/DCxN0orgb5J' target='_blank'>
+  <img width='20%' src='https://instagram.fotp3-3.fna.fbcdn.net/v/t51.2885-15/468104942_18467810623005591_8847073789115456521_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fotp3-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=HBGAVX814LAQ7kNvgFn--KV&_nc_gid=07ce24c43c894502a1af80833f428996&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDhCdXOyrmZ8LhiOIE66oy7Fu-9ku2JY2bZCdXjPmbsPQ&oe=675F81A4&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+<a href='https://instagram.com/p/DChqldJvZ5J' target='_blank'>
+  <img width='20%' src='https://instagram.fotp3-3.fna.fbcdn.net/v/t51.2885-15/467582956_18466716382005591_3405073393130446071_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fotp3-3.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Q_Lvy0kVhLYQ7kNvgHLClgt&_nc_gid=07ce24c43c894502a1af80833f428996&edm=APU89FABAAAA&ccb=7-5&oh=00_AYA9x3a0x5EhL6DZpQ9Lgn-zcPAHN1mbvDXL2bgyHsqaTA&oe=675F7975&_nc_sid=bc0c2c' alt='Instagram photo' />
+</a>
+
+## Mis mascotas 🦥 
 
 <img
   src="https://render.gitanimals.org/farms/baumannzone"
