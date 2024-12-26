@@ -24,18 +24,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 ## 🍒 Últimas publicaciones de [Instagram](https://instagram.com/baumannzone)
 
 
-<a href='https://instagram.com/p/DDCednuAYvl' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/468898075_1120998739636638_1862276146382503666_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=rUoiA-mkiA8Q7kNvgHOi4LN&_nc_gid=c2de836b5ae94453beb146a330f9ff82&edm=APU89FABAAAA&ccb=7-5&oh=00_AYD4TVzc83Z0xbK3cO2ZmNeoHc9PD6vjBta1nT0fIuT1cg&oe=6771B06F&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DC1mM2qv27-' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/468424479_18468104605005591_4234816014177956777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=CFTXFl3eyE4Q7kNvgHxV1Zo&_nc_gid=c2de836b5ae94453beb146a330f9ff82&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBO9cKMIj455az1s1yb28svtEXXvZ33z3oczMSXqQjxlQ&oe=6771DCE2&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DCxN0orgb5J' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/468104942_18467810623005591_8847073789115456521_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=XGhLCLVWozIQ7kNvgFu3Vp4&_nc_gid=c2de836b5ae94453beb146a330f9ff82&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDWkdfRgMCQMz5JPoDBhg7ZmFvFxPmQ94q6drzFBzYHRw&oe=6771BE64&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
-<a href='https://instagram.com/p/DChqldJvZ5J' target='_blank'>
-  <img width='20%' src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.2885-15/467582956_18466716382005591_3405073393130446071_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=0C4rax6IeU4Q7kNvgEREycR&_nc_gid=c2de836b5ae94453beb146a330f9ff82&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCa8LApaefeLoJNFjGgdIQPdzdEc6nAuAf51ihr0eYBsg&oe=6771B635&_nc_sid=bc0c2c' alt='Instagram photo' />
-</a>
 
 ## 🫶 Últimos vídeos de [mi canal de Youtube](https://youtube.com/rambitojs?sub_confirmation=1)
 
