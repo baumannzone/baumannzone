@@ -25,16 +25,16 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 
 <a href='https://instagram.com/p/DEQuhwEtFb6' target='_blank'>
-  <img width='20%' src='https://instagram.fmbx1-1.fna.fbcdn.net/v/t51.29350-15/472132567_1159753572335760_2457642271779760959_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.fmbx1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Ph0pLJnvUIoQ7kNvgHDlC76&_nc_gid=b1678618af1a44a3a09a6d2841b5eb9c&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDuNSQ506pjr__VzbN-g0ajroBKmlupSg1nPCO5XPl97A&oe=6781A42A&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flju3-1.fna.fbcdn.net/v/t51.29350-15/472132567_1159753572335760_2457642271779760959_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.flju3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Ph0pLJnvUIoQ7kNvgGCuwwo&_nc_gid=cf14c4f07d3447d7922b869d6debf99b&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCtiaL0ev7ukdPywNOd3Wlw6u6AAqG5bv20qFdqFAXo0A&oe=6782F5AA&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/DDCednuAYvl' target='_blank'>
-  <img width='20%' src='https://instagram.fmbx1-1.fna.fbcdn.net/v/t51.29350-15/468898075_1120998739636638_1862276146382503666_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.fmbx1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=1Sqwb-kqw_QQ7kNvgHePqcS&_nc_gid=b1678618af1a44a3a09a6d2841b5eb9c&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDf7ellI_UBnIDQIGU9lGr-jiFtQZ3I0Qb32I2rJzrWZQ&oe=6781826F&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flju3-1.fna.fbcdn.net/v/t51.29350-15/468898075_1120998739636638_1862276146382503666_n.jpg?stp=dst-jpg_e35_s1080x1080_tt6&_nc_ht=instagram.flju3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=mW6lJ-QjheMQ7kNvgFmsvl2&_nc_gid=cf14c4f07d3447d7922b869d6debf99b&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCNpFM7M-C8uD24uYEJInpbWJ9yaKNCnQ5nKN5JXd45HA&oe=6782D3EF&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/DC1mM2qv27-' target='_blank'>
-  <img width='20%' src='https://instagram.fmbx1-1.fna.fbcdn.net/v/t51.2885-15/468424479_18468104605005591_4234816014177956777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.fmbx1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eV5potkpUOcQ7kNvgHOIe6k&_nc_gid=b1678618af1a44a3a09a6d2841b5eb9c&edm=APU89FABAAAA&ccb=7-5&oh=00_AYA-yUVcuQ6yJIKbkvd1S2mPydgsY-V26K8tG34Qsjhevw&oe=6781AEE2&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flju3-1.fna.fbcdn.net/v/t51.2885-15/468424479_18468104605005591_4234816014177956777_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=instagram.flju3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=eV5potkpUOcQ7kNvgGxllBe&_nc_gid=cf14c4f07d3447d7922b869d6debf99b&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBJc218gNrbXF4DukXe4tnrL3nl-4_AV5FpJLai9nBKBA&oe=67830062&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 <a href='https://instagram.com/p/DCxN0orgb5J' target='_blank'>
-  <img width='20%' src='https://instagram.fmbx1-1.fna.fbcdn.net/v/t51.2885-15/468104942_18467810623005591_8847073789115456521_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fmbx1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vXPoHmptT4EQ7kNvgH8mrWj&_nc_gid=b1678618af1a44a3a09a6d2841b5eb9c&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAtBckrDvsv2RDyjhkP_GHi9KpztDpOyIBEhK_0jIXDuQ&oe=67819064&_nc_sid=bc0c2c' alt='Instagram photo' />
+  <img width='20%' src='https://instagram.flju3-1.fna.fbcdn.net/v/t51.2885-15/468104942_18467810623005591_8847073789115456521_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.flju3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vXPoHmptT4EQ7kNvgE9ZVlX&_nc_gid=cf14c4f07d3447d7922b869d6debf99b&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBgsklvsz_w3tDKUwG84i_lN6sLdG7CXkam5Z3xdRax3A&oe=6782E1E4&_nc_sid=bc0c2c' alt='Instagram photo' />
 </a>
 
 ## 🫶 Últimos vídeos de [mi canal de Youtube](https://youtube.com/rambitojs?sub_confirmation=1)
