@@ -11,11 +11,16 @@ Hago dibujos con CSS por un plato de arroz. Mi perro se llama Rambo.
 
 ## Sígueme en mis redes sociales
 
-[![Twitch Baumannzone](https://img.shields.io/twitch/status/baumannzone?style=social)](https://twitch.tv/baumannzone)
-[![Baumannzone YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTTj5ztXnGeDRPFVsBp7VMA?style=social)](https://youtube.com/rambitojs)
-[![Instagram Baumannzone](https://img.shields.io/badge/Baumannzone--_.svg?label=Instagram&style=social&logo=instagram)](https://instagram.com/baumannzone)
-[![Twitter Baumannzone](https://img.shields.io/twitter/follow/Baumannzone?label=Twitter&style=social)](https://twitter.com/baumannzone)
-[![Linkedin Baumannzone](https://img.shields.io/badge/LinkedIn-ffffff?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/baumannzone/)
+[![Twitch icon](https://img.shields.io/badge/--000?logo=twitch&logoColor=white)](https://twitch.tv/baumannzone)
+[![YouTube icon](https://img.shields.io/badge/--000?logo=youtube&logoColor=white)](https://youtube.com/rambitojs)
+[![Instagram icon](https://img.shields.io/badge/--000?logo=instagram&logoColor=white)](https://instagram.com/baumannzone)
+[![Twitter icon](https://img.shields.io/badge/--000?logo=x&logoColor=white)](https://twitter.com/baumannzone)
+[![Threads icon](https://img.shields.io/badge/--000?logo=threads&logoColor=white)](https://www.threads.net/@baumannzone)
+[![BlueSky icon](https://img.shields.io/badge/--000?logo=bluesky&logoColor=white)](https://bsky.app/profile/baumannzone.bsky.social)
+[![TikTok icon](https://img.shields.io/badge/--000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@baumannzone)
+[![Mastodon icon](https://img.shields.io/badge/--000?logo=mastodon&logoColor=white)](https://techhub.social/@baumannzone)
+[![dev.to icon](https://img.shields.io/badge/--000?logo=dev.to&logoColor=white)](https://dev.to/baumannzone)
+[![CodePen icon](https://img.shields.io/badge/--000?logo=codepen&logoColor=white)](https://codepen.io/baumannzone)
 
 ## 💻 ¿Quieres ver mi setup de programador?
 
