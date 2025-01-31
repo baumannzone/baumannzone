@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [Git Tower: el GUI de Git más potente para macOS y Windows](https://baumannzone.dev/blog/git-tower-el-gui-de-git-mas-potente-para-macos-y-windows/)
 - [Fragmentos de texto en URLs: navegación exacta sin anclas](https://baumannzone.dev/blog/fragmentos-de-texto-en-urls-navegacion-exacta-sin-anclas/)
 - [Controla lo que los motores de búsqueda rastrean en tu web: guía práctica de robots.txt](https://baumannzone.dev/blog/controla-lo-que-los-motores-de-busqueda-rastrean-en-tu-web-guia-practica-de-robots-txt/)
-- [Evita que la pantalla se duerma con JavaScript: domina la Screen Wake Lock API](https://baumannzone.dev/blog/evita-que-la-pantalla-se-duerma-con-javascript-domina-la-screen-wake-lock-api/)
