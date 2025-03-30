@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [Las 20 mejores fuentes para videojuegos en 2025](https://baumannzone.dev/blog/20-mejores-fuentes-para-videojuegos-en-2025/)
 - [Cómo obtener la URL actual con JavaScript (y sacarle provecho)](https://baumannzone.dev/blog/como-obtener-la-url-actual-con-javascript-y-sacarle-provecho/)
 - [Qué es la función round() en CSS: redondeo dinámico](https://baumannzone.dev/blog/que-es-la-funcion-round-en-css-redondeo-dinamico-en-css/)
-- [Creando un clon de Hacker News con Alpine.js y Tailwind CSS](https://baumannzone.dev/blog/creando-un-clon-de-hacker-news-con-alpinejs-y-tailwind-css/)
