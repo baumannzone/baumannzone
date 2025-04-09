@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
-- [Personalizar cómo se ven los objetos en las DevTools](https://baumannzone.dev/blog/personaliza-como-se-ven-los-objetos-en-las-devtools/)
+- [Personaliza cómo se ven los objetos en las DevTools](https://baumannzone.dev/blog/personaliza-como-se-ven-los-objetos-en-las-devtools/)
 - [Una década con JavaScript y no sabía esto sobre los bucles](https://baumannzone.dev/blog/una-decada-con-javascript-y-no-sabia-esto-sobre-los-bucles/)
 - [Las 20 mejores fuentes para videojuegos en 2025](https://baumannzone.dev/blog/20-mejores-fuentes-para-videojuegos-en-2025/)
