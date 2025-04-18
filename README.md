@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [Doble igual (==) vs triple igual (===) en JavaScript](https://baumannzone.dev/blog/doble-igual-vs-triple-igual-en-javascript/)
 - [RIP styled-components: 2016–2025 💅](https://baumannzone.dev/blog/rip-styled-components-2016-2025/)
 - [Personaliza cómo se ven los objetos en las DevTools](https://baumannzone.dev/blog/personaliza-como-se-ven-los-objetos-en-las-devtools/)
-- [Una década con JavaScript y no sabía esto sobre los bucles](https://baumannzone.dev/blog/una-decada-con-javascript-y-no-sabia-esto-sobre-los-bucles/)
