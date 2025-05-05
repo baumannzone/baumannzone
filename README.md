@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [La sintaxis secreta de `of S` en `:nth-child()` que probablemente estás ignorando](https://baumannzone.dev/blog/la-sintaxis-secreta-de-of-s-en-nth-child-que-probablemente-estas-ignorando/)
 - [Si solo escribes código, no estás haciendo suficiente (según esta métrica)](https://baumannzone.dev/blog/si-solo-escribes-codigo-no-estas-haciendo-suficiente-segun-esta-metrica/)
 - [Doble igual (==) vs triple igual (===) en JavaScript](https://baumannzone.dev/blog/doble-igual-vs-triple-igual-en-javascript/)
-- [RIP styled-components: 2016–2025 💅](https://baumannzone.dev/blog/rip-styled-components-2016-2025/)
