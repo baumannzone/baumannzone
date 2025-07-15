@@ -1,5 +1,5 @@
 <p align="center">
-   <h2 align="center">👋 Hola, soy Jorge Baumann 👨‍💻</h2>
+   <h2 align="center">👋 Hola, soy Baumann 👨‍💻</h2>
    <img align="center" src="img/Senior Software Engineer.png" />
    <h4 align="center" style="font-weight: 300; color: #555;">#HTML #CSS #JavaScript</h4>
 </p>
