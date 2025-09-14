@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [Enlaces de afiliados bien etiquetados con 'sponsored'](https://baumannzone.dev/blog/enlaces-de-afiliados-bien-etiquetados-con-sponsored/)
 - [Haz accesible el contenido de los pseudo-elementos ::marker en CSS](https://baumannzone.dev/blog/haz-accesible-el-contenido-de-los-pseudo-elementos-marker-en-css/)
 - [Acordeones nativos en HTML sin una línea de JavaScript](https://baumannzone.dev/blog/acordeones-nativos-en-html-sin-una-linea-de-javascript/)
-- [La sintaxis secreta de `of S` en `:nth-child()` que probablemente estás ignorando](https://baumannzone.dev/blog/la-sintaxis-secreta-de-of-s-en-nth-child-que-probablemente-estas-ignorando/)
