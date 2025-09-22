@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [RSL: el nuevo estándar que quiere que la IA pague por tu contenido](https://baumannzone.dev/blog/rsl-el-nuevo-estandar-que-quiere-que-la-ia-pague-por-tu-contenido/)
 - [Enlaces de afiliados bien etiquetados con 'sponsored'](https://baumannzone.dev/blog/enlaces-de-afiliados-bien-etiquetados-con-sponsored/)
 - [Haz accesible el contenido de los pseudo-elementos ::marker en CSS](https://baumannzone.dev/blog/haz-accesible-el-contenido-de-los-pseudo-elementos-marker-en-css/)
-- [Acordeones nativos en HTML sin una línea de JavaScript](https://baumannzone.dev/blog/acordeones-nativos-en-html-sin-una-linea-de-javascript/)
