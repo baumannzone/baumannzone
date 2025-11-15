@@ -98,7 +98,7 @@ const generatePostHTML = ({ title, link }) => {
     getLatestBlogPosts('https://www.baumannzone.dev/rss.xml', NUMBER_OF.POSTS),
   ]);
 
-  // Get the latest videos from YouTube
+  // Get the latest videos from YouTube.
   const latestYoutubeVideos = videos
     .map(({ snippet }) => {
       const { title, resourceId } = snippet;
