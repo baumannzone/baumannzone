@@ -17,7 +17,7 @@ jobs:
           INSTAGRAM_APP_ID: '2164074660825642'
           INSTAGRAM_APP_SECRET: ${{ secrets.INSTAGRAM_APP_SECRET }}
           INSTAGRAM_AUTHORIZATION_CODE: ${{ secrets.INSTAGRAM_AUTHORIZATION_CODE }}
-          INSTAGRAM_REDIRECT_URI: https://developers.facebook.com/instagram/token_generator/oauth/
+          INSTAGRAM_REDIRECT_URI: https://www.baumannzone.dev/instagram-oauth
         run: |
           set -euo pipefail
 
