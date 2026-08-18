@@ -55,6 +55,6 @@ Entra en **[baumannzone.dev/setup](https://www.baumannzone.dev/uses)** y descubr
 
 ## 📝 Últimos posts de [mi blog](https://www.baumannzone.dev/blog)
 
+- [Cómo dar mejor contexto a un agente de IA para programar](https://baumannzone.dev/blog/como-dar-mejor-contexto-a-un-agente-de-ia-para-programar/)
+- [Beneficios de dar charlas como developer](https://baumannzone.dev/blog/beneficios-de-dar-charlas-como-developer/)
 - [RSL: el nuevo estándar que quiere que la IA pague por tu contenido](https://baumannzone.dev/blog/rsl-el-nuevo-estandar-que-quiere-que-la-ia-pague-por-tu-contenido/)
-- [Enlaces de afiliados bien etiquetados con 'sponsored'](https://baumannzone.dev/blog/enlaces-de-afiliados-bien-etiquetados-con-sponsored/)
-- [Haz accesible el contenido de los pseudo-elementos ::marker en CSS](https://baumannzone.dev/blog/haz-accesible-el-contenido-de-los-pseudo-elementos-marker-en-css/)
