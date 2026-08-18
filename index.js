@@ -2,13 +2,17 @@ import { promises as fs } from 'fs';
 import * as dotenv from 'dotenv';
 import fetch from 'node-fetch';
 import xml2js from 'xml2js';
+import { getLatestInstagramPosts } from './instagram.js';
 
 dotenv.config();
 
-const { INSTAGRAM_RAPIDAPI_KEY, INSTAGRAM_RAPIDAPI_HOST, YOUTUBE_API_KEY } =
-  process.env;
+const {
+  INSTAGRAM_ACCESS_TOKEN,
+  INSTAGRAM_GRAPH_API_VERSION,
+  INSTAGRAM_USER_ID,
+  YOUTUBE_API_KEY,
+} = process.env;
 
-const INSTAGRAM_USER_ID = '232005590';
 const YOUTUBE_PLAYLIST_ID = 'PLaP1DHaNgbKaChma5n73RlVeQhp0Y4zwo';
 
 const NUMBER_OF = {
@@ -21,26 +25,6 @@ const PLACEHOLDERS = {
   BLOG: '%{{blog}}%',
   YOUTUBE: '%{{youtube}}%',
   INSTAGRAM: '%{{instagram}}%',
-};
-
-const getPhotosFromInstagram = async (numberOfPhotos) => {
-  const response = await fetch(
-    `https://instagram-scraper-2022.p.rapidapi.com/ig/posts/?id_user=${INSTAGRAM_USER_ID}`,
-    {
-      headers: {
-        'X-RapidAPI-Key': INSTAGRAM_RAPIDAPI_KEY,
-        'X-RapidAPI-Host': INSTAGRAM_RAPIDAPI_HOST,
-      },
-    }
-  );
-
-  const json = await response.json();
-  return (
-    json?.data?.user?.edge_owner_to_timeline_media?.edges?.slice(
-      0,
-      numberOfPhotos
-    ) || []
-  );
 };
 
 const getLatestYoutubeVideos = () => {
@@ -73,9 +57,9 @@ const getLatestBlogPosts = async (url, numberOfPosts) => {
   }
 };
 
-const generateInstagramHTML = ({ node: { display_url: url, shortcode } }) => `
-<a href='https://instagram.com/p/${shortcode}' target='_blank'>
-  <img width='20%' src='${url}' alt='Instagram photo' />
+const generateInstagramHTML = ({ imageUrl, permalink }) => `
+<a href='${permalink}' target='_blank'>
+  <img width='20%' src='${imageUrl}' alt='Instagram photo' />
 </a>`;
 
 const generateYoutubeHTML = ({ title, videoId }) => `
@@ -90,11 +74,16 @@ const generatePostHTML = ({ title, link }) => {
   return `- [${title}](${link})`;
 };
 
-(async () => {
+const main = async () => {
   const [template, videos, photos, posts] = await Promise.all([
     fs.readFile('template.md', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
-    getPhotosFromInstagram(NUMBER_OF.PHOTOS),
+    getLatestInstagramPosts({
+      accessToken: INSTAGRAM_ACCESS_TOKEN,
+      graphApiVersion: INSTAGRAM_GRAPH_API_VERSION,
+      numberOfPosts: NUMBER_OF.PHOTOS,
+      userId: INSTAGRAM_USER_ID,
+    }),
     getLatestBlogPosts('https://www.baumannzone.dev/rss.xml', NUMBER_OF.POSTS),
   ]);
 
@@ -122,4 +111,9 @@ const generatePostHTML = ({ title, link }) => {
     .replace(PLACEHOLDERS.BLOG, latestBlogPosts);
 
   await fs.writeFile('README.md', newMarkdown);
-})();
+};
+
+main().catch((error) => {
+  console.error(`No se ha podido actualizar el README: ${error.message}`);
+  process.exitCode = 1;
+});

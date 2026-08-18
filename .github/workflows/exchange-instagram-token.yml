@@ -1,0 +1,38 @@
+name: Exchange Instagram token
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  exchange:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Exchange the temporary authorization code
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INSTAGRAM_APP_ID: '2164074660825642'
+          INSTAGRAM_APP_SECRET: ${{ secrets.INSTAGRAM_APP_SECRET }}
+          INSTAGRAM_AUTHORIZATION_CODE: ${{ secrets.INSTAGRAM_AUTHORIZATION_CODE }}
+          INSTAGRAM_REDIRECT_URI: https://developers.facebook.com/instagram/token_generator/oauth/
+        run: |
+          set -euo pipefail
+
+          response="$(curl --fail-with-body --silent --show-error --request POST \
+            https://api.instagram.com/oauth/access_token \
+            --data-urlencode "client_id=${INSTAGRAM_APP_ID}" \
+            --data-urlencode "client_secret=${INSTAGRAM_APP_SECRET}" \
+            --data-urlencode 'grant_type=authorization_code' \
+            --data-urlencode "redirect_uri=${INSTAGRAM_REDIRECT_URI}" \
+            --data-urlencode "code=${INSTAGRAM_AUTHORIZATION_CODE}")"
+
+          access_token="$(jq --exit-status --raw-output '.access_token' <<<"${response}")"
+          user_id="$(jq --exit-status --raw-output '.user_id' <<<"${response}")"
+
+          printf '%s' "${access_token}" | gh secret set INSTAGRAM_ACCESS_TOKEN --repo "${GITHUB_REPOSITORY}"
+          printf '%s' "${user_id}" | gh secret set INSTAGRAM_USER_ID --repo "${GITHUB_REPOSITORY}"
+          gh secret delete INSTAGRAM_APP_SECRET --repo "${GITHUB_REPOSITORY}"
+          gh secret delete INSTAGRAM_AUTHORIZATION_CODE --repo "${GITHUB_REPOSITORY}"
