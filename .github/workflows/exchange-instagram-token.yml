@@ -21,7 +21,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          response="$(curl --fail-with-body --silent --show-error --request POST \
+          response="$(curl --silent --show-error --request POST \
             https://api.instagram.com/oauth/access_token \
             --data-urlencode "client_id=${INSTAGRAM_APP_ID}" \
             --data-urlencode "client_secret=${INSTAGRAM_APP_SECRET}" \
@@ -29,7 +29,11 @@ jobs:
             --data-urlencode "redirect_uri=${INSTAGRAM_REDIRECT_URI}" \
             --data-urlencode "code=${INSTAGRAM_AUTHORIZATION_CODE}")"
 
-          access_token="$(jq --exit-status --raw-output '.access_token' <<<"${response}")"
+          if ! access_token="$(jq --exit-status --raw-output '.access_token' <<<"${response}")"; then
+            jq --compact-output '{ error_type, error_message, code }' <<<"${response}"
+            exit 1
+          fi
+
           user_id="$(jq --exit-status --raw-output '.user_id' <<<"${response}")"
 
           printf '%s' "${access_token}" | gh secret set INSTAGRAM_ACCESS_TOKEN --repo "${GITHUB_REPOSITORY}"
