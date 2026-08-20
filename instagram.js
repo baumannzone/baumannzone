@@ -1,34 +1,17 @@
-const INSTAGRAM_GRAPH_API_BASE_URL = 'https://graph.instagram.com';
-const DEFAULT_GRAPH_API_VERSION = 'v24.0';
-
-const getPreviewUrl = (media) => {
-  if (media.media_type === 'VIDEO') {
-    return media.thumbnail_url || media.media_url;
-  }
-
-  return media.media_url;
-};
-
-const getCarouselPreviewUrl = (media) => {
-  const ownPreview = getPreviewUrl(media);
-  if (ownPreview) return ownPreview;
-
-  return media.children?.data?.map(getPreviewUrl).find(Boolean);
-};
+const RAPIDAPI_BASE_URL = 'https://instagram-looter2.p.rapidapi.com';
 
 const getErrorMessage = (payload, fallback) =>
   payload?.error?.message || payload?.message || fallback;
 
 export const getLatestInstagramPosts = async ({
-  accessToken,
+  rapidApiKey,
   fetchImpl = fetch,
-  graphApiVersion = DEFAULT_GRAPH_API_VERSION,
   numberOfPosts = 4,
   userId,
 }) => {
-  if (!accessToken) {
+  if (!rapidApiKey) {
     throw new Error(
-      'Falta INSTAGRAM_ACCESS_TOKEN. Añádelo como secreto de GitHub Actions.'
+      'Falta RAPIDAPI_KEY. Añádelo como secreto de GitHub Actions.'
     );
   }
 
@@ -38,17 +21,16 @@ export const getLatestInstagramPosts = async ({
     );
   }
 
-  const url = new URL(
-    `${INSTAGRAM_GRAPH_API_BASE_URL}/${graphApiVersion}/${userId}/media`
-  );
-  url.searchParams.set(
-    'fields',
-    'id,media_type,media_url,thumbnail_url,permalink,children{media_type,media_url,thumbnail_url}'
-  );
-  url.searchParams.set('limit', numberOfPosts.toString());
+  const url = new URL(`${RAPIDAPI_BASE_URL}/user-feeds`);
+  url.searchParams.set('id', userId);
+  url.searchParams.set('count', numberOfPosts.toString());
+  url.searchParams.set('allow_restricted_media', 'false');
 
   const response = await fetchImpl(url, {
-    headers: { Authorization: `Bearer ${accessToken}` },
+    headers: {
+      'x-rapidapi-host': 'instagram-looter2.p.rapidapi.com',
+      'x-rapidapi-key': rapidApiKey,
+    },
   });
 
   let payload;
@@ -56,36 +38,36 @@ export const getLatestInstagramPosts = async ({
     payload = await response.json();
   } catch {
     throw new Error(
-      `Instagram Graph API devolvió una respuesta no válida (${response.status} ${response.statusText}).`
+      `RapidAPI devolvió una respuesta no válida (${response.status} ${response.statusText}).`
     );
   }
 
   if (!response.ok) {
     throw new Error(
-      `Instagram Graph API devolvió ${response.status}: ${getErrorMessage(
+      `RapidAPI devolvió ${response.status}: ${getErrorMessage(
         payload,
         response.statusText
       )}`
     );
   }
 
-  if (!Array.isArray(payload?.data)) {
+  if (!Array.isArray(payload?.items)) {
     throw new Error(
       'La respuesta de Instagram no contiene una lista de publicaciones.'
     );
   }
 
-  const posts = payload.data
-    .map((media) => ({
-      imageUrl: getCarouselPreviewUrl(media),
-      permalink: media.permalink,
+  const posts = payload.items
+    .map((item) => ({
+      imageUrl: item.display_uri || item.thumbnail_url,
+      permalink: item.link || item.permalink,
     }))
     .filter(({ imageUrl, permalink }) => imageUrl && permalink)
     .slice(0, numberOfPosts);
 
   if (!posts.length) {
     throw new Error(
-      'Instagram no devolvió publicaciones con una imagen o miniatura utilizable.'
+      'Instagram no devolvió publicaciones con una imagen utilizable.'
     );
   }
 

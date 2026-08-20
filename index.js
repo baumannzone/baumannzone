@@ -7,8 +7,7 @@ import { getLatestInstagramPosts } from './instagram.js';
 dotenv.config();
 
 const {
-  INSTAGRAM_ACCESS_TOKEN,
-  INSTAGRAM_GRAPH_API_VERSION,
+  RAPIDAPI_KEY,
   INSTAGRAM_USER_ID,
   YOUTUBE_API_KEY,
 } = process.env;
@@ -79,8 +78,7 @@ const main = async () => {
     fs.readFile('template.md', { encoding: 'utf-8' }),
     getLatestYoutubeVideos(),
     getLatestInstagramPosts({
-      accessToken: INSTAGRAM_ACCESS_TOKEN,
-      graphApiVersion: INSTAGRAM_GRAPH_API_VERSION,
+      rapidApiKey: RAPIDAPI_KEY,
       numberOfPosts: NUMBER_OF.PHOTOS,
       userId: INSTAGRAM_USER_ID,
     }),

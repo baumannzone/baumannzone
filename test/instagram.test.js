@@ -13,37 +13,34 @@ const jsonResponse = (
   json: async () => body,
 });
 
-test('returns the requested latest Instagram posts from the Graph API', async () => {
+test('returns the requested latest Instagram posts from RapidAPI', async () => {
   let request;
   const posts = await getLatestInstagramPosts({
-    accessToken: 'test-access-token',
+    rapidApiKey: 'test-rapidapi-key',
     fetchImpl: async (url, options) => {
       request = { url: new URL(url), options };
       return jsonResponse({
-        data: [
+        items: [
           {
             id: 'post-1',
-            media_type: 'IMAGE',
-            media_url: 'https://cdn.example.com/photo.jpg',
-            permalink: 'https://www.instagram.com/p/post-1/',
+            display_uri: 'https://cdn.example.com/photo.jpg',
+            link: 'https://www.instagram.com/p/post-1/',
           },
           {
             id: 'post-2',
-            media_type: 'VIDEO',
-            thumbnail_url: 'https://cdn.example.com/video-thumbnail.jpg',
-            permalink: 'https://www.instagram.com/reel/post-2/',
+            display_uri: 'https://cdn.example.com/video-thumbnail.jpg',
+            link: 'https://www.instagram.com/reel/post-2/',
           },
           {
             id: 'post-3',
-            media_type: 'IMAGE',
-            media_url: 'https://cdn.example.com/photo-3.jpg',
-            permalink: 'https://www.instagram.com/p/post-3/',
+            display_uri: 'https://cdn.example.com/photo-3.jpg',
+            link: 'https://www.instagram.com/p/post-3/',
           },
         ],
       });
     },
     numberOfPosts: 2,
-    userId: '17841400000000000',
+    userId: '232005590',
   });
 
   assert.deepEqual(posts, [
@@ -56,44 +53,48 @@ test('returns the requested latest Instagram posts from the Graph API', async ()
       permalink: 'https://www.instagram.com/reel/post-2/',
     },
   ]);
-  assert.equal(request.url.pathname, '/v24.0/17841400000000000/media');
-  assert.equal(request.url.searchParams.get('limit'), '2');
-  assert.match(request.url.searchParams.get('fields'), /media_url/);
+  assert.equal(request.url.pathname, '/user-feeds');
+  assert.equal(request.url.searchParams.get('id'), '232005590');
+  assert.equal(request.url.searchParams.get('count'), '2');
   assert.equal(
-    request.options.headers.Authorization,
-    'Bearer test-access-token'
+    request.options.headers['x-rapidapi-key'],
+    'test-rapidapi-key'
+  );
+  assert.equal(
+    request.options.headers['x-rapidapi-host'],
+    'instagram-looter2.p.rapidapi.com'
   );
 });
 
-test('fails instead of silently returning no posts when Instagram rejects the request', async () => {
+test('fails instead of silently returning no posts when RapidAPI rejects the request', async () => {
   await assert.rejects(
     () =>
       getLatestInstagramPosts({
-        accessToken: 'test-access-token',
+        rapidApiKey: 'test-rapidapi-key',
         fetchImpl: async () =>
           jsonResponse(
             {
               error: {
-                code: 190,
-                message: 'Invalid OAuth 2.0 Access Token',
+                code: 403,
+                message: 'Invalid API Key',
               },
             },
-            { ok: false, status: 400, statusText: 'Bad Request' }
+            { ok: false, status: 403, statusText: 'Forbidden' }
           ),
-        userId: '17841400000000000',
+        userId: '232005590',
       }),
-    /Instagram Graph API devolvió 400: Invalid OAuth 2\.0 Access Token/
+    /RapidAPI devolvió 403: Invalid API Key/
   );
 });
 
-test('fails when Instagram returns a response without usable media', async () => {
+test('fails when RapidAPI returns a response without usable media', async () => {
   await assert.rejects(
     () =>
       getLatestInstagramPosts({
-        accessToken: 'test-access-token',
+        rapidApiKey: 'test-rapidapi-key',
         fetchImpl: async () =>
-          jsonResponse({ message: 'Subscription inactive' }),
-        userId: '17841400000000000',
+          jsonResponse({ message: 'User not found' }),
+        userId: '232005590',
       }),
     /no contiene una lista de publicaciones/
   );
